@@ -1,0 +1,16 @@
+.config-form {
+    width: 600px;
+    margin:10% auto;
+    opacity:100%;
+}
+
+.config-form-button {
+    max-width: 100px;
+    width: 100%;
+    margin: 20px;
+    background: #cfd8dc;
+}
+
+.input-box {
+    max-width: 400px;
+}
